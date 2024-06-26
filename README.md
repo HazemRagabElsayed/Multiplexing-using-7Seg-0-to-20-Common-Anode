@@ -1,5 +1,7 @@
 # Multiplexing-using-7Seg-0-to-20-Common-Anode
-In this project I'm using same pins of microcontroller to control two 7Segments (switching between two 7segments very quickly in a frequency that eye of human can't notice that one of 7 segments is turned on and the other is turned off) to display seconds from 0 to 20, again from 0 to 20 and so on.
+
+In this project I'm using same pins of microcontroller to control two 7Segments (switching between two 7segments very quickly in a frequency that eye of human can't notice [Frequency>30Hz] that one of 7 segments is turned on and the other is turned off) to display seconds from 0 to 20, again from 0 to 20 and so on.
+
 ## Devices used:
 
 -Atmega32 (where we put our code to do specific functions)
