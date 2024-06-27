@@ -7,6 +7,7 @@ In this project I'm using same pins of microcontroller to control two 7Segments 
 -Atmega32 (where we put our code to do specific functions)
 
 -7Segments (for displaying numbers)
+
 ## tools used:
 
 -Proteus 8 Professional
